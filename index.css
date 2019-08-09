@@ -1,0 +1,46 @@
+.body {
+    background-color: black;
+    margin: 0px
+}
+
+.header {
+    color: limegreen;
+    background-color: rgb(9, 46, 9);
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+    font-family: fantasy;
+}
+
+.image1 {
+    text-align: center;
+}
+
+.img1 {
+    width: 99vw;
+}
+
+.image2 {
+    display: inline-block;
+}
+
+.img2 {
+    width: 48vw;
+}
+
+.image3 {
+    display: inline-block;
+}
+
+.img3 {
+    width: 48vw;
+}
+
+.bottom {
+    text-align: center;
+}
+
+.button1:hover {
+    background-color: grey;
+    color: white;
+}
